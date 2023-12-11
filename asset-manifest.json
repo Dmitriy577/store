@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/store/static/css/main.05b5b597.css",
+    "main.js": "/store/static/js/main.9873a77c.js",
+    "static/media/dmitriy-7DD6tfTKqS4-unsplash 1.png": "/store/static/media/dmitriy-7DD6tfTKqS4-unsplash 1.a5d1d825364cf254130e.png",
+    "static/media/Фото товара.png": "/store/static/media/Фото товара.d11f5aab78a2a7a35e39.png",
+    "static/media/logo.png": "/store/static/media/logo.a014f1e42dcbaf0fe662.png",
+    "index.html": "/store/index.html",
+    "main.05b5b597.css.map": "/store/static/css/main.05b5b597.css.map",
+    "main.9873a77c.js.map": "/store/static/js/main.9873a77c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05b5b597.css",
+    "static/js/main.9873a77c.js"
+  ]
+}
